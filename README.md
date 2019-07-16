@@ -13,6 +13,10 @@ and **aspect sentiment classification (ASC)**, which we call aspect term-polarit
 * python 2.7
 * tensorflow==1.2.0
 
+```
+pip install -r requirements.txt
+```
+
 ## Running
 
 ##### preprocess
