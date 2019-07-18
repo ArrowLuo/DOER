@@ -31,7 +31,7 @@ python main.py --do_preprocess --data_sets laptops_2014
 python main.py \
     --do_train --do_evaluate \
     --data_sets laptops_2014 \
-    --choice_rnncell mgru \
+    --choice_rnncell regu \
     --use_mpqa \
     --use_labels_length \
     --do_cross_share --lr 0.001 \

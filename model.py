@@ -6,7 +6,7 @@ import math
 from data_utils import minibatches_for_sequence, pad_sequences, get_chunks, get_polaity_chunks, labels_average_length
 from general_utils import Progbar
 import general_utils as logging
-from mgru_cell import MgRUCell
+from regu_cell import ReGUCell
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
@@ -148,12 +148,12 @@ class Model(object):
 
         return x_emb
 
-    def add_mgru_layer(self, task_name, word_embeddings, hidden_size):
-        with tf.variable_scope("bi-mgru" + task_name + self.graph_suffix):
-            mgru_cell_f = MgRUCell(hidden_size)
-            mgru_cell_b = MgRUCell(hidden_size)
+    def add_regu_layer(self, task_name, word_embeddings, hidden_size):
+        with tf.variable_scope("bi-regu" + task_name + self.graph_suffix):
+            regu_cell_f = ReGUCell(hidden_size)
+            regu_cell_b = ReGUCell(hidden_size)
             (output_fw, output_bw), _ = tf.nn.bidirectional_dynamic_rnn(
-                mgru_cell_f, mgru_cell_b, word_embeddings, sequence_length=self.sequence_lengths, dtype=tf.float32)
+                regu_cell_f, regu_cell_b, word_embeddings, sequence_length=self.sequence_lengths, dtype=tf.float32)
 
             output = tf.concat([output_fw, output_bw], axis=-1)  # shape = (?,?,600)
             word_embeddings_output = tf.nn.dropout(output, self.dropout)
@@ -227,9 +227,9 @@ class Model(object):
         word_embeddings = self.add_word_embeddings_op('_extraction_')
         embeddings_one, embeddings_two = word_embeddings, word_embeddings
 
-        if self.config.choice_rnncell == "mgru":
-            embeddings_one = self.add_mgru_layer('_embedding_one_layer1_', embeddings_one, self.config.hidden_size)
-            embeddings_two = self.add_mgru_layer('_embedding_two_layer1_', embeddings_two, self.config.hidden_size)
+        if self.config.choice_rnncell == "regu":
+            embeddings_one = self.add_regu_layer('_embedding_one_layer1_', embeddings_one, self.config.hidden_size)
+            embeddings_two = self.add_regu_layer('_embedding_two_layer1_', embeddings_two, self.config.hidden_size)
         first_aspect_hidden, first_polarity_hidden = embeddings_one, embeddings_two
 
         if self.config.do_cross_share:
@@ -239,9 +239,9 @@ class Model(object):
                 embeddings_one, embeddings_two, self.aspect_attv, self.polarity_attv = self.add_crossdiff_op(
                     embeddings_one, embeddings_two, cross_share_k, g_hidden_size, max_pooling=max_pooling)
 
-        if self.config.choice_rnncell == "mgru":
-            embeddings_one = self.add_mgru_layer('_embedding_one_layer2_', embeddings_one, self.config.hidden_size)
-            embeddings_two = self.add_mgru_layer('_embedding_two_layer2_', embeddings_two, self.config.hidden_size)
+        if self.config.choice_rnncell == "regu":
+            embeddings_one = self.add_regu_layer('_embedding_one_layer2_', embeddings_one, self.config.hidden_size)
+            embeddings_two = self.add_regu_layer('_embedding_two_layer2_', embeddings_two, self.config.hidden_size)
 
         aspect_hidden, polarity_hidden = embeddings_one, embeddings_two
 

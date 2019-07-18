@@ -24,7 +24,7 @@ def parse_parameters():
     parser.add_argument('--data_sets', type=str, default="laptops_2014", help="dataset for train, dev, and test.")
     parser.add_argument('--use_mpqa', default=False, action='store_true', help='auxilary sentimet lexicon enhancement.')
     parser.add_argument('--use_labels_length', default=False, action='store_true', help='auxilary sentimet lexicon enhancement.')
-    parser.add_argument('--choice_rnncell', type=str, default="mgru", help='choice the rnn cell type.', choices=['mgru'])
+    parser.add_argument('--choice_rnncell', type=str, default="regu", help='choice the rnn cell type.', choices=['regu'])
     parser.add_argument('--do_cross_share', default=False, action='store_true')
     parser.add_argument('--cross_share_k', type=int, default=5, help='dimension size of paramenter `k` in cross share unit.')
     parser.add_argument('--show_test_results', default=False, action='store_true')

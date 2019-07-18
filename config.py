@@ -6,7 +6,7 @@ class Config(object):
         self.data_sets = "laptops_2014"
 
         # model control
-        self.choice_rnncell = "mgru"
+        self.choice_rnncell = "regu"
         self.do_cross_share = False
         self.cross_share_k = 5
         self.use_mpqa = False

@@ -12,7 +12,7 @@ from tensorflow.python.util import nest
 _BIAS_VARIABLE_NAME = "bias"
 _WEIGHTS_VARIABLE_NAME = "kernel"
 
-class MgRUCell(tf.nn.rnn_cell.RNNCell):
+class ReGUCell(tf.nn.rnn_cell.RNNCell):
     """ ref: tf.contrib.rnn.LSTMCell
     """
 
@@ -22,7 +22,7 @@ class MgRUCell(tf.nn.rnn_cell.RNNCell):
                  num_unit_shards=None, num_proj_shards=None,
                  forget_bias=1.0, state_is_tuple=True,
                  activation=None, reuse=None):
-        super(MgRUCell, self).__init__(_reuse=reuse)
+        super(ReGUCell, self).__init__(_reuse=reuse)
         if not state_is_tuple:
             logging.warn("%s: Using a concatenated state is slower and will soon be "
                          "deprecated.  Use state_is_tuple=True.", self)
@@ -80,8 +80,8 @@ class MgRUCell(tf.nn.rnn_cell.RNNCell):
                 unit_scope.set_partitioner(
                     partitioned_variables.fixed_size_partitioner(
                         self._num_unit_shards))
-            mgru_matrix = _linear([inputs, c_prev], 2 * self._num_units, bias=True, kernel_initializer=tf.contrib.layers.xavier_initializer())
-            f, o = array_ops.split(value=mgru_matrix, num_or_size_splits=2, axis=1)
+            regu_matrix = _linear([inputs, c_prev], 2 * self._num_units, bias=True, kernel_initializer=tf.contrib.layers.xavier_initializer())
+            f, o = array_ops.split(value=regu_matrix, num_or_size_splits=2, axis=1)
 
             input_size = inputs.get_shape().as_list()[-1]
             with vs.variable_scope("input_projection"):
