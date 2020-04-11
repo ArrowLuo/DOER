@@ -40,6 +40,9 @@ python main.py \
 
 See [main.py](./main.py) for more training arguments.
 
+##### word embedding
+Amazon Embedding can be found in [amazon](https://github.com/ArrowLuo/DOER/tree/master/data/amazon), and Yelp Embedding can be found in [yelp](https://github.com/ArrowLuo/DOER/tree/master/data/yelp).
+
 ## Citation
 
 If this work is helpful, please cite as:
