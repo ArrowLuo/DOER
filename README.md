@@ -2,7 +2,7 @@
 
 The implementation of 
 
-*[DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction](https://arxiv.org/pdf/1906.01794.pdf). 
+*[DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction](https://www.aclweb.org/anthology/P19-1056). 
 Huaishao Luo, Tianrui Li, Bing Liu, Junbo Zhang. ACL, 2019.*
 
 This paper focuses on two related subtasks of aspect-based sentiment analysis, namely **aspect term extraction (ATE)** 
