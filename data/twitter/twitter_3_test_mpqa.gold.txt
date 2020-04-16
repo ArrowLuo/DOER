@@ -2,7 +2,7 @@
 
 Someone - NO O O O
 at - NO O O O
-Apple - NO B_AP CONFLICT B_AP+CONFLICT
+Apple - NO B_AP NEUTRAL B_AP+NEUTRAL
 lost - NEGATIVE O O O
 their - NO O O O
 prototype - NO O O O
@@ -22,8 +22,8 @@ http://ow.ly/1AjMh - NO O O O
 Waste - NO O O O
 New - NO O O O
 s: - NO O O O
-Mayor - NO B_AP CONFLICT B_AP+CONFLICT
-Bloomberg - NO I_AP CONFLICT I_AP+CONFLICT
+Mayor - NO B_AP NEUTRAL B_AP+NEUTRAL
+Bloomberg - NO I_AP NEUTRAL I_AP+NEUTRAL
 to - NO O O O
 unveil - NO O O O
 recycling - NO O O O
@@ -43,7 +43,7 @@ Consolidation - NO O O O
 Apply - NO O O O
 Today - NO O O O
 - - NO O O O
-BigNews.biz - NO B_AP CONFLICT B_AP+CONFLICT
+BigNews.biz - NO B_AP NEUTRAL B_AP+NEUTRAL
 ( - NO O O O
 press - POSITIVE O O O
 release - NO O O O
@@ -95,13 +95,13 @@ song - NO O O O
 ( - NO O O O
 ft - NO O O O
 . - NO O O O
-Sev - NO B_AP CONFLICT B_AP+CONFLICT
-Sanders - NO I_AP CONFLICT I_AP+CONFLICT
+Sev - NO B_AP NEUTRAL B_AP+NEUTRAL
+Sanders - NO I_AP NEUTRAL I_AP+NEUTRAL
 ) - NO O O O
 ' - NO O O O
 by - NO O O O
-Kimberley - NO B_AP CONFLICT B_AP+CONFLICT
-Locke - NO I_AP CONFLICT I_AP+CONFLICT
+Kimberley - NO B_AP NEUTRAL B_AP+NEUTRAL
+Locke - NO I_AP NEUTRAL I_AP+NEUTRAL
 on - NO O O O
 @myspace - NO O O O
 http://t.co/t1pYBqcg - NO O O O
@@ -121,7 +121,7 @@ http://t.co/eMc4hKqG - NO O O O
 via - NO O O O
 @afbamdad - NO O O O
 
-@dianna3335 - NO B_AP CONFLICT B_AP+CONFLICT
+@dianna3335 - NO B_AP NEUTRAL B_AP+NEUTRAL
 That's - NO O O O
 why - NO O O O
 people - NO O O O
@@ -146,7 +146,7 @@ VertiCoil - NO O O O
 Edge - NO O O O
 ! - NO O O O
 
-@BarackObama - NO B_AP CONFLICT B_AP+CONFLICT
+@BarackObama - NO B_AP NEUTRAL B_AP+NEUTRAL
 please - POSITIVE O O O
 do - NO O O O
 something - NO O O O
@@ -180,7 +180,7 @@ for - NO O O O
 Chayanne - NO B_AP POSITIVE B_AP+POSITIVE
 in - NO O O O
 the - NO O O O
-Eventful - NO B_AP CONFLICT B_AP+CONFLICT
+Eventful - NO B_AP NEUTRAL B_AP+NEUTRAL
 2011 - NO O O O
 Latin - NO O O O
 Fans' - NO O O O
@@ -193,7 +193,7 @@ adopts - NO O O O
 new - NO O O O
 listing - NO O O O
 and - NO O O O
-IPO - NO B_AP CONFLICT B_AP+CONFLICT
+IPO - NO B_AP NEUTRAL B_AP+NEUTRAL
 rules - NO O O O
 - - NO O O O
 MENA1 - NO O O O
@@ -214,12 +214,12 @@ of - NO O O O
 Kurdish - NO O O O
 opposition - NEGATIVE O O O
 leader - NO O O O
-Mishaal - NO B_AP CONFLICT B_AP+CONFLICT
-al-Tammo - NO I_AP CONFLICT I_AP+CONFLICT
+Mishaal - NO B_AP NEUTRAL B_AP+NEUTRAL
+al-Tammo - NO I_AP NEUTRAL I_AP+NEUTRAL
 in - NO O O O
 Syria- - NO O O O
-VOK - NO B_AP CONFLICT B_AP+CONFLICT
-Radio - NO I_AP CONFLICT I_AP+CONFLICT
+VOK - NO B_AP NEUTRAL B_AP+NEUTRAL
+Radio - NO I_AP NEUTRAL I_AP+NEUTRAL
 : - NO O O O
 http://t.co/ndAIRtLJ - NO O O O
 via - NO O O O
@@ -240,9 +240,9 @@ Just - NO O O O
 saw - NO O O O
 this - NO O O O
 on - NO O O O
-Amazon - NO B_AP CONFLICT B_AP+CONFLICT
+Amazon - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
-'Canon - NO B_AP CONFLICT B_AP+CONFLICT
+'Canon - NO B_AP NEUTRAL B_AP+NEUTRAL
 EOS - NO O O O
 Rebel - NO O O O
 T1i - NO O O O
@@ -291,7 +291,7 @@ http://t.co/tXXNel7G - NO O O O
 
 @Najib_Mikati - NO O O O
 : - NO O O O
-Bixi - NO B_AP CONFLICT B_AP+CONFLICT
+Bixi - NO B_AP NEUTRAL B_AP+NEUTRAL
 in - NO O O O
 Montreal - NO O O O
 is - NO O O O
@@ -318,7 +318,7 @@ concept - NO O O O
 
 #SME2011ME - NO O O O
 sold - NO O O O
-GoNabit - NO B_AP CONFLICT B_AP+CONFLICT
+GoNabit - NO B_AP NEUTRAL B_AP+NEUTRAL
 for - NO O O O
 shareholders - NO O O O
 , - NO O O O
@@ -339,9 +339,9 @@ my - NO O O O
 personal - NO O O O
 newspaper - NO O O O
 on - NO O O O
-The - NO B_AP CONFLICT B_AP+CONFLICT
-Tweeted - NO I_AP CONFLICT I_AP+CONFLICT
-Times - NO I_AP CONFLICT I_AP+CONFLICT
+The - NO B_AP NEUTRAL B_AP+NEUTRAL
+Tweeted - NO I_AP NEUTRAL I_AP+NEUTRAL
+Times - NO I_AP NEUTRAL I_AP+NEUTRAL
 http://t.co/uhQ61nh - NO O O O
 
 Compaq - NO B_AP POSITIVE B_AP+POSITIVE
@@ -378,7 +378,7 @@ of - NO O O O
 PERSIAN - NO O O O
 GULF - NO O O O
 | - NO O O O
-causes.com - NO B_AP CONFLICT B_AP+CONFLICT
+causes.com - NO B_AP NEUTRAL B_AP+NEUTRAL
 http://t.co/NIQlEzr - NO O O O
 via - NO O O O
 @causes - NO O O O
@@ -409,7 +409,7 @@ http://t.co/iOFSUc4C - NO O O O
 One - NO B_AP POSITIVE B_AP+POSITIVE
 Direction - NO I_AP POSITIVE I_AP+POSITIVE
 and - NO O O O
-JLS - NO B_AP CONFLICT B_AP+CONFLICT
+JLS - NO B_AP NEUTRAL B_AP+NEUTRAL
 interview - NO O O O
 on - NO O O O
 The - NO O O O
@@ -467,7 +467,7 @@ Will - NO O O O
 Reach - NO O O O
 You' - NO O O O
 by - NO O O O
-Westlife - NO B_AP CONFLICT B_AP+CONFLICT
+Westlife - NO B_AP NEUTRAL B_AP+NEUTRAL
 on - NO O O O
 @myspace - NO O O O
 http://t.co/bZLRTNl - NO O O O
@@ -476,7 +476,7 @@ What's - NO O O O
 your - NO O O O
 ranking - NO O O O
 on - NO O O O
-Google - NO B_AP CONFLICT B_AP+CONFLICT
+Google - NO B_AP NEUTRAL B_AP+NEUTRAL
 ? - NO O O O
 Need - NO O O O
 help - POSITIVE O O O
@@ -500,8 +500,8 @@ for - NO O O O
 info - NO O O O
 ! - NO O O O
 
-Ugarit - NO B_AP CONFLICT B_AP+CONFLICT
-News - NO I_AP CONFLICT I_AP+CONFLICT
+Ugarit - NO B_AP NEUTRAL B_AP+NEUTRAL
+News - NO I_AP NEUTRAL I_AP+NEUTRAL
 || - NO O O O
 #Syria - NO O O O
 || - NO O O O
@@ -510,14 +510,14 @@ News - NO I_AP CONFLICT I_AP+CONFLICT
 Dec - NO O O O
 2011 - NO O O O
 ] - NO O O O
-Al-Bayadah - NO B_AP CONFLICT B_AP+CONFLICT
+Al-Bayadah - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
 #Hom - NO O O O
 s: - NO O O O
 The - NO O O O
 martyr - NO O O O
-Fouad - NO B_AP CONFLICT B_AP+CONFLICT
-Kan'an - NO I_AP CONFLICT I_AP+CONFLICT
+Fouad - NO B_AP NEUTRAL B_AP+NEUTRAL
+Kan'an - NO I_AP NEUTRAL I_AP+NEUTRAL
 along - NO O O O
 with - NO O O O
 his - NO O O O
@@ -528,7 +528,7 @@ sister - NO O O O
 ... - NO O O O
 http://t.co/UoSl3D0o - NO O O O
 
-@yessyseashells - NO B_AP CONFLICT B_AP+CONFLICT
+@yessyseashells - NO B_AP NEUTRAL B_AP+NEUTRAL
 Find - NO O O O
 out - NO O O O
 what - NO O O O
@@ -615,7 +615,7 @@ $ - NO O O O
 Value - NO O O O
 â - NO O O O
 48-Pack - NO O O O
-Duracell - NO B_AP CONFLICT B_AP+CONFLICT
+Duracell - NO B_AP NEUTRAL B_AP+NEUTRAL
 Copper - NO O O O
 Top - NO O O O
 AA - NO O O O
@@ -683,7 +683,7 @@ $ - NO O O O
 330 - NO O O O
 . - NO O O O
 Call - NO O O O
-Michael - NO B_AP CONFLICT B_AP+CONFLICT
+Michael - NO B_AP NEUTRAL B_AP+NEUTRAL
 ... - NO O O O
 http://fb.me/KZx1ehi9 - NO O O O
 
@@ -692,9 +692,9 @@ Hm - NO O O O
 81 - NO O O O
 points - NO O O O
 for - NO O O O
-Kim - NO B_AP CONFLICT B_AP+CONFLICT
-Jong - NO I_AP CONFLICT I_AP+CONFLICT
-Il - NO I_AP CONFLICT I_AP+CONFLICT
+Kim - NO B_AP NEUTRAL B_AP+NEUTRAL
+Jong - NO I_AP NEUTRAL I_AP+NEUTRAL
+Il - NO I_AP NEUTRAL I_AP+NEUTRAL
 , - NO O O O
 not - NO O O O
 a - NO O O O
@@ -710,16 +710,16 @@ the - NO O O O
 year - NO O O O
 #about2croak - NO O O O
 
-@RealEstateHQ - NO B_AP CONFLICT B_AP+CONFLICT
-@ActonBIA - NO I_AP CONFLICT I_AP+CONFLICT
-@Mone - NO I_AP CONFLICT I_AP+CONFLICT
+@RealEstateHQ - NO B_AP NEUTRAL B_AP+NEUTRAL
+@ActonBIA - NO I_AP NEUTRAL I_AP+NEUTRAL
+@Mone - NO I_AP NEUTRAL I_AP+NEUTRAL
 Greetings - NO O O O
 from - NO O O O
 Montenegro - NO O O O
 http://t.co/p1jJhepA - NO O O O
 
-Roald - NO B_AP CONFLICT B_AP+CONFLICT
-Dahl - NO I_AP CONFLICT I_AP+CONFLICT
+Roald - NO B_AP NEUTRAL B_AP+NEUTRAL
+Dahl - NO I_AP NEUTRAL I_AP+NEUTRAL
 : - NO O O O
 "We - NO O O O
 have - NO O O O
@@ -741,8 +741,8 @@ http://bit.ly/aBo0wQ - NO O O O
 
 " - NO O O O
 @ - NO O O O
-BillGate - NO B_AP CONFLICT B_AP+CONFLICT
-s: - NO I_AP CONFLICT I_AP+CONFLICT
+BillGate - NO B_AP NEUTRAL B_AP+NEUTRAL
+s: - NO I_AP NEUTRAL I_AP+NEUTRAL
 Met - NO O O O
 with - NO O O O
 @NYTimesFriedman - NO O O O
@@ -776,7 +776,7 @@ Colleges - NO O O O
 Demand - NO O O O
 Applicants - NO O O O
 â - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 Data - NO O O O
 http://t.co/mhspesy0 - NO O O O
 
@@ -784,16 +784,16 @@ http://t.co/mhspesy0 - NO O O O
 @fionasimpeijun - NO O O O
 cine - NO O O O
 . - NO O O O
-My - NO B_AP CONFLICT B_AP+CONFLICT
-friend - POSITIVE I_AP CONFLICT I_AP+CONFLICT
+My - NO B_AP NEUTRAL B_AP+NEUTRAL
+friend - POSITIVE I_AP NEUTRAL I_AP+NEUTRAL
 just - NO O O O
 left - NO O O O
 . - NO O O O
 
 *Video* - NO O O O
 Watch - NO O O O
-Mark - NO B_AP CONFLICT B_AP+CONFLICT
-Zuckerberg's - NO I_AP CONFLICT I_AP+CONFLICT
+Mark - NO B_AP NEUTRAL B_AP+NEUTRAL
+Zuckerberg's - NO I_AP NEUTRAL I_AP+NEUTRAL
 Surprise - NO O O O
 "SNL" - NO O O O
 Cameo - NO O O O
@@ -818,7 +818,7 @@ to - NO O O O
 info@responsiva.biz - NO O O O
 and - NO O O O
 quote - NO O O O
-"Twitter - NO B_AP CONFLICT B_AP+CONFLICT
+"Twitter - NO B_AP NEUTRAL B_AP+NEUTRAL
 Promo" - NO O O O
 
 AUDIO - NO O O O
@@ -832,9 +832,9 @@ Afghanistan - NO O O O
 British - NO O O O
 Sikh - NO O O O
 author - NO O O O
-Bobby - NO B_AP CONFLICT B_AP+CONFLICT
-Singh - NO I_AP CONFLICT I_AP+CONFLICT
-Bansal - NO I_AP CONFLICT I_AP+CONFLICT
+Bobby - NO B_AP NEUTRAL B_AP+NEUTRAL
+Singh - NO I_AP NEUTRAL I_AP+NEUTRAL
+Bansal - NO I_AP NEUTRAL I_AP+NEUTRAL
 has - NO O O O
 travelled - NO O O O
 to - NO O O O
@@ -846,7 +846,7 @@ The - NO O O O
 Call - NO O O O
 of - NO O O O
 True - NO O O O
-Islam - NO B_AP CONFLICT B_AP+CONFLICT
+Islam - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
 http://t.co/fEzXEK7 - NO O O O
 
@@ -860,7 +860,7 @@ Me - NO O O O
 â - NO O O O
 tab - NO O O O
 on - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 featuring - NO O O O
 new - NO O O O
 blogs - NO O O O
@@ -868,13 +868,13 @@ of - NO O O O
 our - NO O O O
 students - NO O O O
 , - NO O O O
-Jason - NO B_AP CONFLICT B_AP+CONFLICT
+Jason - NO B_AP NEUTRAL B_AP+NEUTRAL
 and - NO O O O
-Tara - NO B_AP CONFLICT B_AP+CONFLICT
+Tara - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
 and - NO O O O
 lecturer - NO O O O
-Siva - NO B_AP CONFLICT B_AP+CONFLICT
+Siva - NO B_AP NEUTRAL B_AP+NEUTRAL
 ! - NO O O O
 http://t.co/XyRb7dZ2 - NO O O O
 
@@ -906,7 +906,7 @@ http://t.co/wiL0VvQI - NO O O O
 http://t.co/1MbJCdeB - NO O O O
 Discount - NO O O O
 Buy - NO O O O
-Crayola - NO B_AP CONFLICT B_AP+CONFLICT
+Crayola - NO B_AP NEUTRAL B_AP+NEUTRAL
 Treasure - NO O O O
 Adventures - NO O O O
 http://t.co/S8P9g3ck - NO O O O
@@ -943,8 +943,8 @@ like - POSITIVE O O O
 people - NO O O O
 do - NO O O O
 
-US - NO B_AP CONFLICT B_AP+CONFLICT
-Airways - NO I_AP CONFLICT I_AP+CONFLICT
+US - NO B_AP NEUTRAL B_AP+NEUTRAL
+Airways - NO I_AP NEUTRAL I_AP+NEUTRAL
 Shares - NO O O O
 Slip - NO O O O
 Despite - NO O O O
@@ -954,13 +954,13 @@ Chance - NO O O O
 Strong - NO O O O
 Demand - NO O O O
 - - NO O O O
-TheStreet - NO B_AP CONFLICT B_AP+CONFLICT
+TheStreet - NO B_AP NEUTRAL B_AP+NEUTRAL
 - - NO O O O
 http://t.co/glyNc2k7 - NO O O O
 
 How - NO O O O
 has - NO O O O
-Twitter - NO B_AP CONFLICT B_AP+CONFLICT
+Twitter - NO B_AP NEUTRAL B_AP+NEUTRAL
 influenced - NO O O O
 your - NO O O O
 life - NO O O O
@@ -1006,12 +1006,12 @@ just - NO O O O
 shut - NO O O O
 up - NO O O O
 -- - NO O O O
-Anon - NO B_AP CONFLICT B_AP+CONFLICT
+Anon - NO B_AP NEUTRAL B_AP+NEUTRAL
 
 @13elieveSG - NO O O O
 Hi - NO O O O
-SUJU - NO B_AP CONFLICT B_AP+CONFLICT
-SG - NO I_AP CONFLICT I_AP+CONFLICT
+SUJU - NO B_AP NEUTRAL B_AP+NEUTRAL
+SG - NO I_AP NEUTRAL I_AP+NEUTRAL
 fans - NO O O O
 , - NO O O O
 Im - NO O O O
@@ -1046,9 +1046,9 @@ in - NO O O O
 Mid-Season - NO O O O
 Sale - NO O O O
 from - NO O O O
-Lands - NO B_AP CONFLICT B_AP+CONFLICT
-End - NO I_AP CONFLICT I_AP+CONFLICT
-UK - NO I_AP CONFLICT I_AP+CONFLICT
+Lands - NO B_AP NEUTRAL B_AP+NEUTRAL
+End - NO I_AP NEUTRAL I_AP+NEUTRAL
+UK - NO I_AP NEUTRAL I_AP+NEUTRAL
 http://t.co/rd01QuCj - NO O O O
 
 i've - NO O O O
@@ -1061,7 +1061,7 @@ account - NO O O O
 :D - NO O O O
 http://t.co/kafOKPF - NO O O O
 
-NYSE - NO B_AP CONFLICT B_AP+CONFLICT
+NYSE - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
 $ - NO O O O
 HCA - NO O O O
@@ -1094,8 +1094,8 @@ worried - NEGATIVE O O O
 about - NO O O O
 yesterday - NO O O O
 . - NO O O O
--Dale - NO B_AP CONFLICT B_AP+CONFLICT
-Carnegie - NO I_AP CONFLICT I_AP+CONFLICT
+-Dale - NO B_AP NEUTRAL B_AP+NEUTRAL
+Carnegie - NO I_AP NEUTRAL I_AP+NEUTRAL
 
 We're - NO O O O
 on - NO O O O
@@ -1112,7 +1112,7 @@ channel - NO O O O
 ! - NO O O O
 http://t.co/mFybCQqm - NO O O O
 
-@glamorousMo0n - NO B_AP CONFLICT B_AP+CONFLICT
+@glamorousMo0n - NO B_AP NEUTRAL B_AP+NEUTRAL
 y - NO O O O
 r - NO O O O
 u - NO O O O
@@ -1129,7 +1129,7 @@ Behind - NO O O O
 The - NO O O O
 scene - NO O O O
 at - NO O O O
-Nokia - NO B_AP CONFLICT B_AP+CONFLICT
+Nokia - NO B_AP NEUTRAL B_AP+NEUTRAL
 â - NO O O O
 s - NO O O O
 London - NO O O O
@@ -1162,7 +1162,7 @@ http://t.co/VZQ83Zi4 - NO O O O
 
 Rates - NO O O O
 on - NO O O O
-FHA - NO B_AP CONFLICT B_AP+CONFLICT
+FHA - NO B_AP NEUTRAL B_AP+NEUTRAL
 Loans - NO O O O
 Still - NO O O O
 Close - NO O O O
@@ -1232,7 +1232,7 @@ Today - NO O O O
 bharat - NO O O O
 band - NO O O O
 on - NO O O O
-FDI - NO B_AP CONFLICT B_AP+CONFLICT
+FDI - NO B_AP NEUTRAL B_AP+NEUTRAL
 . - NO O O O
 Do - NO O O O
 you - NO O O O
@@ -1267,7 +1267,7 @@ http://t.co/oCwtd2r - NO O O O
 iPhone - NO O O O
 4S - NO O O O
 triples - NO O O O
-Apple's - NO B_AP CONFLICT B_AP+CONFLICT
+Apple's - NO B_AP NEUTRAL B_AP+NEUTRAL
 sales - NO O O O
 . - NO O O O
 But - NO O O O
@@ -1281,8 +1281,8 @@ out - NO O O O
 http://t.co/hCq4CyFe - NO O O O
 
 @willonline - NO B_AP NEGATIVE B_AP+NEGATIVE
-Louise - NO I_AP CONFLICT I_AP+CONFLICT
-Mensch - NO I_AP CONFLICT I_AP+CONFLICT
+Louise - NO I_AP NEUTRAL I_AP+NEUTRAL
+Mensch - NO I_AP NEUTRAL I_AP+NEUTRAL
 already - NO O O O
 tried - NO O O O
 the - NO O O O
@@ -1303,8 +1303,8 @@ in - NO O O O
 the - NO O O O
 company - NO O O O
 of - NO O O O
-Jan - NO B_AP CONFLICT B_AP+CONFLICT
-Lundgren - NO I_AP CONFLICT I_AP+CONFLICT
+Jan - NO B_AP NEUTRAL B_AP+NEUTRAL
+Lundgren - NO I_AP NEUTRAL I_AP+NEUTRAL
 Trio - NO O O O
 this - NO O O O
 evening - NO O O O
@@ -1335,24 +1335,24 @@ countries - NO O O O
 name - NO O O O
 like - POSITIVE O O O
 ( - NO O O O
-Apple - NO B_AP CONFLICT B_AP+CONFLICT
+Apple - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
-Samsung - NO B_AP CONFLICT B_AP+CONFLICT
+Samsung - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
-Google - NO B_AP CONFLICT B_AP+CONFLICT
+Google - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
-Microsoft - NO B_AP CONFLICT B_AP+CONFLICT
+Microsoft - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
 T - NO O O O
 ) - NO O O O
 . - NO O O O
 From - NO O O O
-PIIGS - NO B_AP CONFLICT B_AP+CONFLICT
+PIIGS - NO B_AP NEUTRAL B_AP+NEUTRAL
 to - NO O O O
 ( - NO O O O
-ASGFM - NO B_AP CONFLICT B_AP+CONFLICT
+ASGFM - NO B_AP NEUTRAL B_AP+NEUTRAL
 ) - NO O O O
 . - NO O O O
 then - NO O O O
@@ -1382,7 +1382,7 @@ http://t.co/WlnC0nuf - NO O O O
 A - NO O O O
 BRAND - NO O O O
 NEW - NO O O O
-Honda - NO B_AP CONFLICT B_AP+CONFLICT
+Honda - NO B_AP NEUTRAL B_AP+NEUTRAL
 Civic - NO O O O
 Sold - NO O O O
 for - NO O O O
@@ -1402,9 +1402,9 @@ off - NO O O O
 spon - NO O O O
 http://tinyurl.com/2ahuzm3 - NO O O O
 
-Los - NO B_AP CONFLICT B_AP+CONFLICT
-Angeles - NO I_AP CONFLICT I_AP+CONFLICT
-times - NO I_AP CONFLICT I_AP+CONFLICT
+Los - NO B_AP NEUTRAL B_AP+NEUTRAL
+Angeles - NO I_AP NEUTRAL I_AP+NEUTRAL
+times - NO I_AP NEUTRAL I_AP+NEUTRAL
 : - NO O O O
 Rose-colored - NO O O O
 glasses - NO O O O
@@ -1415,32 +1415,32 @@ last - NO O O O
 ... - NO O O O
 http://bit.ly/qpMBR7 - NO O O O
 
-NFL - NO B_AP CONFLICT B_AP+CONFLICT
+NFL - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
-Patriots - NO B_AP CONFLICT B_AP+CONFLICT
+Patriots - NO B_AP NEUTRAL B_AP+NEUTRAL
 21-10 - NO O O O
-Bills - NO B_AP CONFLICT B_AP+CONFLICT
+Bills - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
-Dolphins - NO B_AP CONFLICT B_AP+CONFLICT
+Dolphins - NO B_AP NEUTRAL B_AP+NEUTRAL
 10-7 - NO O O O
-Browns - NO B_AP CONFLICT B_AP+CONFLICT
+Browns - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
-49ers - NO B_AP CONFLICT B_AP+CONFLICT
+49ers - NO B_AP NEUTRAL B_AP+NEUTRAL
 0-3 - NO O O O
-Bengals - NO B_AP CONFLICT B_AP+CONFLICT
+Bengals - NO B_AP NEUTRAL B_AP+NEUTRAL
 y - NO O O O
-Giants - NO B_AP CONFLICT B_AP+CONFLICT
+Giants - NO B_AP NEUTRAL B_AP+NEUTRAL
 14-13 - NO O O O
-Eagles - NO B_AP CONFLICT B_AP+CONFLICT
+Eagles - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
 al - NO O O O
 medio - NO O O O
 tiempo - NO O O O
 http://t.co/7Rf3Nyt4 - NO O O O
 
-Cyanide - NO B_AP CONFLICT B_AP+CONFLICT
-& - NO I_AP CONFLICT I_AP+CONFLICT
-Happiness - NO I_AP CONFLICT I_AP+CONFLICT
+Cyanide - NO B_AP NEUTRAL B_AP+NEUTRAL
+& - NO I_AP NEUTRAL I_AP+NEUTRAL
+Happiness - NO I_AP NEUTRAL I_AP+NEUTRAL
 - - NO O O O
 Barbershop - NO O O O
 Quartet - NO O O O
@@ -1454,7 +1454,7 @@ Subtit - NO O O O
 ... - NO O O O
 http://t.co/FbQMXFd - NO O O O
 vÃÂ­a - NO O O O
-@youtube - NO B_AP CONFLICT B_AP+CONFLICT
+@youtube - NO B_AP NEUTRAL B_AP+NEUTRAL
 
 I - NO O O O
 posted - NO O O O
@@ -1462,7 +1462,7 @@ a - NO O O O
 new - NO O O O
 photo - NO O O O
 to - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 http://t.co/KfKV4AHK - NO O O O
 
 I - NO O O O
@@ -1471,7 +1471,7 @@ a - NO O O O
 new - NO O O O
 photo - NO O O O
 to - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 http://t.co/ecYyzDXL - NO O O O
 
 8th - NO O O O
@@ -1492,8 +1492,8 @@ her - NO O O O
 by - NO O O O
 UK - NO O O O
 magazine - NO O O O
-Good - NO B_AP CONFLICT B_AP+CONFLICT
-Housekeeping - NO I_AP CONFLICT I_AP+CONFLICT
+Good - NO B_AP NEUTRAL B_AP+NEUTRAL
+Housekeeping - NO I_AP NEUTRAL I_AP+NEUTRAL
 .... - NO O O O
 http://t.co/BwLQozur - NO O O O
 
@@ -1502,7 +1502,7 @@ posted - NO O O O
 2 - NO O O O
 photos - NO O O O
 on - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 in - NO O O O
 the - NO O O O
 album - NO O O O
@@ -1544,7 +1544,7 @@ World - NO O O O
 
 Amazon - NO B_AP POSITIVE B_AP+POSITIVE
 bought - NO O O O
-Woot.com - NO B_AP CONFLICT B_AP+CONFLICT
+Woot.com - NO B_AP NEUTRAL B_AP+NEUTRAL
 I - NO O O O
 guess - NO O O O
 that - NO O O O
@@ -1573,19 +1573,19 @@ Services - NO I_AP POSITIVE I_AP+POSITIVE
 http://t.co/v9WnqMou - NO O O O
 
 Is - NO O O O
-Antonia - NO B_AP CONFLICT B_AP+CONFLICT
-Maino - NO I_AP CONFLICT I_AP+CONFLICT
+Antonia - NO B_AP NEUTRAL B_AP+NEUTRAL
+Maino - NO I_AP NEUTRAL I_AP+NEUTRAL
 aka - NO O O O
-Sonia - NO B_AP CONFLICT B_AP+CONFLICT
-Gandhi - NO I_AP CONFLICT I_AP+CONFLICT
+Sonia - NO B_AP NEUTRAL B_AP+NEUTRAL
+Gandhi - NO I_AP NEUTRAL I_AP+NEUTRAL
 Really - NO O O O
 to - NO O O O
 Blame - NO O O O
 ? - NO O O O
 http://t.co/iK2826zS - NO O O O
 
-Texas - NO B_AP CONFLICT B_AP+CONFLICT
-Chicken - NO I_AP CONFLICT I_AP+CONFLICT
+Texas - NO B_AP NEUTRAL B_AP+NEUTRAL
+Chicken - NO I_AP NEUTRAL I_AP+NEUTRAL
 4-for-4.80 - NO O O O
 Mondays - NO O O O
 ! - NO O O O
@@ -1595,8 +1595,8 @@ http://t.co/tRcW52qO - NO O O O
 
 I'm - NO O O O
 at - NO O O O
-Bella - NO B_AP CONFLICT B_AP+CONFLICT
-Bru - NO I_AP CONFLICT I_AP+CONFLICT
+Bella - NO B_AP NEUTRAL B_AP+NEUTRAL
+Bru - NO I_AP NEUTRAL I_AP+NEUTRAL
 ( - NO O O O
 5038 - NO O O O
 Fair - NO O O O
@@ -1615,7 +1615,7 @@ Did - NO O O O
 you - NO O O O
 guys - NO O O O
 know - NO O O O
-Rob's - NO B_AP CONFLICT B_AP+CONFLICT
+Rob's - NO B_AP NEUTRAL B_AP+NEUTRAL
 got - NO O O O
 a - NO O O O
 new - NO O O O
@@ -1646,7 +1646,7 @@ Can - NO O O O
 ... - NO O O O
 http://t.co/1cdxuPLG - NO O O O
 
-CNH - NO B_AP CONFLICT B_AP+CONFLICT
+CNH - NO B_AP NEUTRAL B_AP+NEUTRAL
 All - NO O O O
 Around - NO O O O
 Cleaning - NO O O O
@@ -1665,7 +1665,7 @@ holders - NO O O O
 can - NO O O O
 enjoy - POSITIVE O O O
 new - NO O O O
-twitter - NO B_AP CONFLICT B_AP+CONFLICT
+twitter - NO B_AP NEUTRAL B_AP+NEUTRAL
 app - NO O O O
 ( - NO O O O
 from - NO O O O
@@ -1674,7 +1674,7 @@ RIM - NO O O O
 which - NO O O O
 supports - NO O O O
 multiple - NO O O O
-twitter - NO B_AP CONFLICT B_AP+CONFLICT
+twitter - NO B_AP NEUTRAL B_AP+NEUTRAL
 accounts - NO O O O
 . - NO O O O
 bb - NO O O O
@@ -1705,7 +1705,7 @@ u - NO O O O
 the - NO O O O
 episode - NO O O O
 where - NO O O O
-Shengo - NO B_AP CONFLICT B_AP+CONFLICT
+Shengo - NO B_AP NEUTRAL B_AP+NEUTRAL
 has - NO O O O
 to - NO O O O
 leave - NO O O O
@@ -1720,7 +1720,7 @@ Oscars' - NO O O O
 #Entertainment - NO O O O
 http://t.co/q5pr59kW - NO O O O
 
-ASNC - NO B_AP CONFLICT B_AP+CONFLICT
+ASNC - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
 Age - NO O O O
 Alone - NO O O O
@@ -1766,7 +1766,7 @@ message - NO O O O
 Stop - NO O O O
 stalking - NO O O O
 @devbostick - NO O O O
-twitter - NO B_AP CONFLICT B_AP+CONFLICT
+twitter - NO B_AP NEUTRAL B_AP+NEUTRAL
 . - NO O O O
 He - NO O O O
 wont - NO O O O
@@ -1794,7 +1794,7 @@ CNBC - NO B_AP POSITIVE B_AP+POSITIVE
 article - NO O O O
 http://t.co/vVVDiBKp - NO O O O
 
-@Dazesucks - NO B_AP CONFLICT B_AP+CONFLICT
+@Dazesucks - NO B_AP NEUTRAL B_AP+NEUTRAL
 sitting - NO O O O
 in - NO O O O
 class - NO O O O
@@ -1826,7 +1826,7 @@ my - NO O O O
 friend - POSITIVE O O O
 say - NO O O O
 , - NO O O O
-yasmin - NO B_AP CONFLICT B_AP+CONFLICT
+yasmin - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
 I - NO O O O
 already - NO O O O
@@ -1844,7 +1844,7 @@ they - NO O O O
 say - NO O O O
 it - NO O O O
 
-Twitter - NO B_AP CONFLICT B_AP+CONFLICT
+Twitter - NO B_AP NEUTRAL B_AP+NEUTRAL
 Brings - NO O O O
 On - NO O O O
 Two - NO O O O
@@ -1857,9 +1857,9 @@ Generation - NO O O O
 AllTwitter - NO O O O
 http://t.co/JljzdJiJ - NO O O O
 
-Kim - NO B_AP CONFLICT B_AP+CONFLICT
-Soo - NO I_AP CONFLICT I_AP+CONFLICT
-Hyun's - NO I_AP CONFLICT I_AP+CONFLICT
+Kim - NO B_AP NEUTRAL B_AP+NEUTRAL
+Soo - NO I_AP NEUTRAL I_AP+NEUTRAL
+Hyun's - NO I_AP NEUTRAL I_AP+NEUTRAL
 Birthday - NO O O O
 on - NO O O O
 The - NO O O O
@@ -1891,11 +1891,11 @@ or - NO O O O
 your - NO O O O
 self-confidence - NO O O O
 . - NO O O O
-Robert - NO B_AP CONFLICT B_AP+CONFLICT
-Frost - NO I_AP CONFLICT I_AP+CONFLICT
+Robert - NO B_AP NEUTRAL B_AP+NEUTRAL
+Frost - NO I_AP NEUTRAL I_AP+NEUTRAL
 
-Sarey - NO B_AP CONFLICT B_AP+CONFLICT
-Savy's - NO I_AP CONFLICT I_AP+CONFLICT
+Sarey - NO B_AP NEUTRAL B_AP+NEUTRAL
+Savy's - NO I_AP NEUTRAL I_AP+NEUTRAL
 new - NO O O O
 song - NO O O O
 ! - NO O O O
@@ -1906,22 +1906,22 @@ http://t.co/4w6jzbCU - NO O O O
 on - NO O O O
 #SoundCloud - NO O O O
 
-Daily - NO B_AP CONFLICT B_AP+CONFLICT
-Aashiana - NO I_AP CONFLICT I_AP+CONFLICT
-Punjabi - NO I_AP CONFLICT I_AP+CONFLICT
-Newspaper - NO I_AP CONFLICT I_AP+CONFLICT
+Daily - NO B_AP NEUTRAL B_AP+NEUTRAL
+Aashiana - NO I_AP NEUTRAL I_AP+NEUTRAL
+Punjabi - NO I_AP NEUTRAL I_AP+NEUTRAL
+Newspaper - NO I_AP NEUTRAL I_AP+NEUTRAL
 online - NO O O O
 : - NO O O O
-Union - NO B_AP CONFLICT B_AP+CONFLICT
-Human - NO I_AP CONFLICT I_AP+CONFLICT
-Resources - NO I_AP CONFLICT I_AP+CONFLICT
-Development - NO I_AP CONFLICT I_AP+CONFLICT
+Union - NO B_AP NEUTRAL B_AP+NEUTRAL
+Human - NO I_AP NEUTRAL I_AP+NEUTRAL
+Resources - NO I_AP NEUTRAL I_AP+NEUTRAL
+Development - NO I_AP NEUTRAL I_AP+NEUTRAL
 Minister - NO O O O
 , - NO O O O
 M - NO O O O
 http://t.co/UmaAOaPG - NO O O O
 
-IG - NO B_AP CONFLICT B_AP+CONFLICT
+IG - NO B_AP NEUTRAL B_AP+NEUTRAL
 faults - NO O O O
 Energy - NO B_AP NEGATIVE B_AP+NEGATIVE
 Department - NO I_AP NEGATIVE I_AP+NEGATIVE
@@ -1949,15 +1949,15 @@ they - NO O O O
 focus - NO O O O
 on - NO O O O
 a - NO O O O
-Barca - NO B_AP CONFLICT B_AP+CONFLICT
+Barca - NO B_AP NEUTRAL B_AP+NEUTRAL
 player - NO O O O
 
 White - NO O O O
 Horse - NO O O O
 keyboards - NO O O O
 by - NO O O O
-Taylor - NO B_AP CONFLICT B_AP+CONFLICT
-Swift - NO I_AP CONFLICT I_AP+CONFLICT
+Taylor - NO B_AP NEUTRAL B_AP+NEUTRAL
+Swift - NO I_AP NEUTRAL I_AP+NEUTRAL
 http://t.co/H9em6zG - NO O O O
 via - NO O O O
 @echords - NO O O O
@@ -1967,8 +1967,8 @@ via - NO O O O
 StockNews - NO O O O
 : - NO O O O
 - - NO O O O
-#Tata - NO B_AP CONFLICT B_AP+CONFLICT
-Steel - NO I_AP CONFLICT I_AP+CONFLICT
+#Tata - NO B_AP NEUTRAL B_AP+NEUTRAL
+Steel - NO I_AP NEUTRAL I_AP+NEUTRAL
 â - NO O O O
 s - NO O O O
 JV - NO O O O
@@ -1994,7 +1994,7 @@ http://t.co/6ab1k6h - NO O O O
 
 " - NO O O O
 @ - NO O O O
-JohnCMaxwell - NO B_AP CONFLICT B_AP+CONFLICT
+JohnCMaxwell - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
 Two - NO O O O
 kinds - NO O O O
@@ -2033,22 +2033,22 @@ to - NO O O O
 % - NO O O O
 Off - NO O O O
 at - NO O O O
-Experience - NO B_AP CONFLICT B_AP+CONFLICT
-Limits - NO I_AP CONFLICT I_AP+CONFLICT
+Experience - NO B_AP NEUTRAL B_AP+NEUTRAL
+Limits - NO I_AP NEUTRAL I_AP+NEUTRAL
 http://t.co/TDbBYyRf - NO O O O
 
-Smithsonian - NO B_AP CONFLICT B_AP+CONFLICT
-Institution - NO I_AP CONFLICT I_AP+CONFLICT
+Smithsonian - NO B_AP NEUTRAL B_AP+NEUTRAL
+Institution - NO I_AP NEUTRAL I_AP+NEUTRAL
 Announces - NO O O O
 New - NO O O O
 Jewelry - NO O O O
 Line - NO O O O
 with - NO O O O
-QVC - NO B_AP CONFLICT B_AP+CONFLICT
+QVC - NO B_AP NEUTRAL B_AP+NEUTRAL
 == - NO O O O
 
-'Johannes - NO B_AP CONFLICT B_AP+CONFLICT
-Kepler' - NO I_AP CONFLICT I_AP+CONFLICT
+'Johannes - NO B_AP NEUTRAL B_AP+NEUTRAL
+Kepler' - NO I_AP NEUTRAL I_AP+NEUTRAL
 space - NO O O O
 freighter - NO O O O
 ready - POSITIVE O O O
@@ -2067,7 +2067,7 @@ RT - NO O O O
 RT - NO O O O
 @standupglenbo - NO O O O
 : - NO O O O
-News24 - NO B_AP CONFLICT B_AP+CONFLICT
+News24 - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
 18 - NO O O O
 Schools - NO O O O
@@ -2101,7 +2101,7 @@ statement - NO O O O
 the - NO O O O
 tribes - NO O O O
 arrived - NO O O O
-NewsYemen - NO B_AP CONFLICT B_AP+CONFLICT
+NewsYemen - NO B_AP NEUTRAL B_AP+NEUTRAL
 said - NO O O O
 the - NO B_AP NEGATIVE B_AP+NEGATIVE
 Guard - NO I_AP NEGATIVE I_AP+NEGATIVE
@@ -2117,7 +2117,7 @@ war - NEGATIVE O O O
 crimes - NO O O O
 and - NO O O O
 
-shoiab - NO B_AP CONFLICT B_AP+CONFLICT
+shoiab - NO B_AP NEUTRAL B_AP+NEUTRAL
 returns - NO O O O
 with - NO O O O
 yet - NO O O O
@@ -2128,9 +2128,9 @@ controversy - NEGATIVE O O O
 US - NO O O O
 defense - POSITIVE O O O
 secretary - NO O O O
-Panetta - NO B_AP CONFLICT B_AP+CONFLICT
+Panetta - NO B_AP NEUTRAL B_AP+NEUTRAL
 says - NO O O O
-US - NO B_AP CONFLICT B_AP+CONFLICT
+US - NO B_AP NEUTRAL B_AP+NEUTRAL
 will - POSITIVE O O O
 take - NO O O O
 military - NO O O O
@@ -2170,7 +2170,7 @@ a - NO O O O
 new - NO O O O
 photo - NO O O O
 to - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 http://t.co/hQ3PSuh8 - NO O O O
 
 Take - NO O O O
@@ -2202,7 +2202,7 @@ Honycomb - NO O O O
 Update - NO O O O
 for - NO O O O
 Verizon - NO B_AP POSITIVE B_AP+POSITIVE
-Motorola - NO I_AP CONFLICT I_AP+CONFLICT
+Motorola - NO I_AP NEUTRAL I_AP+NEUTRAL
 Xoom - NO O O O
 : - NO O O O
 It - NO O O O
@@ -2212,12 +2212,12 @@ a - NO O O O
 owners - NO O O O
 of - NO O O O
 a - NO O O O
-Verizon - NO B_AP CONFLICT B_AP+CONFLICT
+Verizon - NO B_AP NEUTRAL B_AP+NEUTRAL
 ... - NO O O O
 http://bit.ly/qkCkDj - NO O O O
 
-Ploughshare - NO B_AP CONFLICT B_AP+CONFLICT
-s: - NO I_AP CONFLICT I_AP+CONFLICT
+Ploughshare - NO B_AP NEUTRAL B_AP+NEUTRAL
+s: - NO I_AP NEUTRAL I_AP+NEUTRAL
 The - NO O O O
 Geometry - NO O O O
 of - NO O O O
@@ -2237,27 +2237,27 @@ Green - NO O O O
 Tea - NO O O O
 Extract - NO O O O
 By - NO O O O
-Derma - NO B_AP CONFLICT B_AP+CONFLICT
-E - NO I_AP CONFLICT I_AP+CONFLICT
+Derma - NO B_AP NEUTRAL B_AP+NEUTRAL
+E - NO I_AP NEUTRAL I_AP+NEUTRAL
 
 I - NO O O O
 posted - NO O O O
 10 - NO O O O
 photos - NO O O O
 on - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 in - NO O O O
 the - NO O O O
 album - NO O O O
 "On - NO O O O
 Assignment - NO O O O
 | - NO O O O
-Bangkok - NO B_AP CONFLICT B_AP+CONFLICT
+Bangkok - NO B_AP NEUTRAL B_AP+NEUTRAL
 floods" - NO O O O
 http://t.co/l3pAMNTW - NO O O O
 
 State - NO O O O
-NAACP - NO B_AP CONFLICT B_AP+CONFLICT
+NAACP - NO B_AP NEUTRAL B_AP+NEUTRAL
 endorses - NO O O O
 â - NO O O O
 parent - NO O O O
@@ -2319,8 +2319,8 @@ otherwise - NO O O O
 . - NO O O O
 
 The - NO O O O
-Kobe - NO B_AP CONFLICT B_AP+CONFLICT
-Bryant - NO I_AP CONFLICT I_AP+CONFLICT
+Kobe - NO B_AP NEUTRAL B_AP+NEUTRAL
+Bryant - NO I_AP NEUTRAL I_AP+NEUTRAL
 Daily - NO O O O
 is - NO O O O
 out - NO O O O
@@ -2339,8 +2339,8 @@ this - NO O O O
 entry - NO O O O
 to - NO O O O
 become - NO O O O
-Greyson - NO B_AP CONFLICT B_AP+CONFLICT
-Chance - NO I_AP CONFLICT I_AP+CONFLICT
+Greyson - NO B_AP NEUTRAL B_AP+NEUTRAL
+Chance - NO I_AP NEUTRAL I_AP+NEUTRAL
 â - NO O O O
 s - NO O O O
 ProtÃ©gÃ© - NO O O O
@@ -2354,7 +2354,7 @@ will - POSITIVE O O O
 be - NO O O O
 aired - NO O O O
 today - NO O O O
-Maryam - NO B_AP CONFLICT B_AP+CONFLICT
+Maryam - NO B_AP NEUTRAL B_AP+NEUTRAL
 ? - NO O O O
 
 Congratulations - NO O O O
@@ -2441,7 +2441,7 @@ program - NO O O O
 yet - NO O O O
 ! - NO O O O
 
-NSE - NO B_AP CONFLICT B_AP+CONFLICT
+NSE - NO B_AP NEUTRAL B_AP+NEUTRAL
 Stocks - NO O O O
 in - NO O O O
 52 - NO O O O
@@ -2472,7 +2472,7 @@ omg - NO O O O
 ! - NO O O O
 news - NO O O O
 on - NO O O O
-Yahoo - NO B_AP CONFLICT B_AP+CONFLICT
+Yahoo - NO B_AP NEUTRAL B_AP+NEUTRAL
 ! - NO O O O
 " - NO O O O
 ( - NO O O O
@@ -2483,7 +2483,7 @@ In - NO O O O
 order - NO O O O
 to - NO O O O
 get - NO O O O
-twitter - NO B_AP CONFLICT B_AP+CONFLICT
+twitter - NO B_AP NEUTRAL B_AP+NEUTRAL
 followers - NO O O O
 use - NO O O O
 this - NO O O O
@@ -2515,7 +2515,7 @@ an - NO O O O
 employer - NO O O O
 own - NO O O O
 a - NO O O O
-#Twitter - NO B_AP CONFLICT B_AP+CONFLICT
+#Twitter - NO B_AP NEUTRAL B_AP+NEUTRAL
 account - NO O O O
 built - NO O O O
 by - NO O O O
@@ -2536,7 +2536,7 @@ moment - NO O O O
 when - NO O O O
 Lin - NO B_AP NEGATIVE B_AP+NEGATIVE
 and - NO O O O
-Jeffries - NO B_AP CONFLICT B_AP+CONFLICT
+Jeffries - NO B_AP NEUTRAL B_AP+NEUTRAL
 are - NO O O O
 fighting - NO O O O
 for - NO O O O
@@ -2551,12 +2551,12 @@ Afghan - NO O O O
 soldier - NO O O O
 "kills - NO O O O
 two - NO O O O
-NATO - NO B_AP CONFLICT B_AP+CONFLICT
+NATO - NO B_AP NEUTRAL B_AP+NEUTRAL
 troops" - NO O O O
 at - NO O O O
 protests - NEGATIVE O O O
 ( - NO O O O
-Reuters - NO B_AP CONFLICT B_AP+CONFLICT
+Reuters - NO B_AP NEUTRAL B_AP+NEUTRAL
 ) - NO O O O
 http://t.co/dxHYGT5A - NO O O O
 
@@ -2575,7 +2575,7 @@ Tariq - NO B_AP POSITIVE B_AP+POSITIVE
 Radi-Allahu - NO I_AP POSITIVE I_AP+POSITIVE
 'anhu - NO I_AP POSITIVE I_AP+POSITIVE
 ): - NO I_AP POSITIVE I_AP+POSITIVE
-'Abdullah - NO I_AP CONFLICT I_AP+CONFLICT
+'Abdullah - NO I_AP NEUTRAL I_AP+NEUTRAL
 said - NO O O O
 , - NO O O O
 "The - NO O O O
@@ -2585,7 +2585,7 @@ is - NO O O O
 ... - NO O O O
 http://t.co/M5fTfG6T - NO O O O
 
-Skinlastin - NO B_AP CONFLICT B_AP+CONFLICT
+Skinlastin - NO B_AP NEUTRAL B_AP+NEUTRAL
 Wrinkle - NO O O O
 Cream - NO O O O
 reviews - NO O O O
@@ -2593,7 +2593,7 @@ before - NO O O O
 buying - NO O O O
 . - NO O O O
 Detailed - NO O O O
-Skinlastin - NO B_AP CONFLICT B_AP+CONFLICT
+Skinlastin - NO B_AP NEUTRAL B_AP+NEUTRAL
 Wrinkle - NO O O O
 Cream - NO O O O
 reviews - NO O O O
@@ -2602,8 +2602,8 @@ ingredients - NO O O O
 . - NO O O O
 http://goo.gl/k2sCy - NO O O O
 
-Pete - NO B_AP CONFLICT B_AP+CONFLICT
-Sampras - NO I_AP CONFLICT I_AP+CONFLICT
+Pete - NO B_AP NEUTRAL B_AP+NEUTRAL
+Sampras - NO I_AP NEUTRAL I_AP+NEUTRAL
 had - NO O O O
 the - NO O O O
 highest - NO O O O
@@ -2627,24 +2627,24 @@ career - NO O O O
 ! - NO O O O
 
 http://bit.ly/bP9OSi - NO O O O
-Alcatel - NO B_AP CONFLICT B_AP+CONFLICT
+Alcatel - NO B_AP NEUTRAL B_AP+NEUTRAL
 Members - NO O O O
 of - NO O O O
-Pentagon - NO B_AP CONFLICT B_AP+CONFLICT
+Pentagon - NO B_AP NEUTRAL B_AP+NEUTRAL
 review - NO O O O
 panel - NO O O O
 
-Steve - NO B_AP CONFLICT B_AP+CONFLICT
-Jobs' - NO I_AP CONFLICT I_AP+CONFLICT
+Steve - NO B_AP NEUTRAL B_AP+NEUTRAL
+Jobs' - NO I_AP NEUTRAL I_AP+NEUTRAL
 2005 - NO O O O
-Stanford - NO B_AP CONFLICT B_AP+CONFLICT
+Stanford - NO B_AP NEUTRAL B_AP+NEUTRAL
 Commencement - NO O O O
 Address - NO O O O
 http://t.co/3bAPyiEg - NO O O O
 
 Check - NO O O O
 out - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 ! - NO O O O
 You - NO O O O
 can - NO O O O
@@ -2654,8 +2654,8 @@ at - NO O O O
 http://t.co/BGfcQMwq - NO O O O
 
 http://t.co/GyJ9cSTD - NO O O O
-Pakistani - NO B_AP CONFLICT B_AP+CONFLICT
-actress - NO I_AP CONFLICT I_AP+CONFLICT
+Pakistani - NO B_AP NEUTRAL B_AP+NEUTRAL
+actress - NO I_AP NEUTRAL I_AP+NEUTRAL
 alleges - NO O O O
 Indian - NO O O O
 mag - NO O O O
@@ -2677,7 +2677,7 @@ vÃ­a - NO O O O
 @metrolyrics - NO O O O
 
 Instruct - NO O O O
-Orchid - NO B_AP CONFLICT B_AP+CONFLICT
+Orchid - NO B_AP NEUTRAL B_AP+NEUTRAL
 to - NO O O O
 sell - NO O O O
 your - NO O O O
@@ -2749,9 +2749,9 @@ Iran - NO O O O
 weapon - NO O O O
 part - NO O O O
 s: - NO O O O
-The - NO B_AP CONFLICT B_AP+CONFLICT
-High - NO I_AP CONFLICT I_AP+CONFLICT
-Court - NO I_AP CONFLICT I_AP+CONFLICT
+The - NO B_AP NEUTRAL B_AP+NEUTRAL
+High - NO I_AP NEUTRAL I_AP+NEUTRAL
+Court - NO I_AP NEUTRAL I_AP+NEUTRAL
 has - NO O O O
 revoked - NO O O O
 the - NO O O O
@@ -2787,9 +2787,9 @@ Catering - NO O O O
 ... - NO O O O
 http://t.co/6Zhn7MFi - NO O O O
 
-j - NO B_AP CONFLICT B_AP+CONFLICT
-r - NO I_AP CONFLICT I_AP+CONFLICT
-martinez - NO I_AP CONFLICT I_AP+CONFLICT
+j - NO B_AP NEUTRAL B_AP+NEUTRAL
+r - NO I_AP NEUTRAL I_AP+NEUTRAL
+martinez - NO I_AP NEUTRAL I_AP+NEUTRAL
 How - NO O O O
 to - NO O O O
 Leverage - NO O O O
@@ -2818,11 +2818,11 @@ has - NO O O O
 placed - NO O O O
 restriction - NEGATIVE O O O
 over - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 
-#BBC - NO B_AP CONFLICT B_AP+CONFLICT
-World - NO I_AP CONFLICT I_AP+CONFLICT
-News - NO I_AP CONFLICT I_AP+CONFLICT
+#BBC - NO B_AP NEUTRAL B_AP+NEUTRAL
+World - NO I_AP NEUTRAL I_AP+NEUTRAL
+News - NO I_AP NEUTRAL I_AP+NEUTRAL
 is - NO O O O
 fastest - NO O O O
 growing - NO O O O
@@ -2832,9 +2832,9 @@ in - NO O O O
 #Asia - NO O O O
 http://t.co/W0VX9Es7 - NO O O O
 
-Ethelind - NO B_AP CONFLICT B_AP+CONFLICT
-Coblin - NO I_AP CONFLICT I_AP+CONFLICT
-Architect - NO I_AP CONFLICT I_AP+CONFLICT
+Ethelind - NO B_AP NEUTRAL B_AP+NEUTRAL
+Coblin - NO I_AP NEUTRAL I_AP+NEUTRAL
+Architect - NO I_AP NEUTRAL I_AP+NEUTRAL
 | - NO O O O
 40 - NO O O O
 East - NO O O O
@@ -2849,7 +2849,7 @@ Reputation - NO O O O
 By - NO O O O
 Creating - NO O O O
 A - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 Fan - NO O O O
 Page - NO O O O
 Now - NO O O O
@@ -2875,13 +2875,13 @@ Houston - NO I_AP POSITIVE I_AP+POSITIVE
 
 Out - NO O O O
 with - NO O O O
-my - NO B_AP CONFLICT B_AP+CONFLICT
-sister - NO I_AP CONFLICT I_AP+CONFLICT
+my - NO B_AP NEUTRAL B_AP+NEUTRAL
+sister - NO I_AP NEUTRAL I_AP+NEUTRAL
 and - NO O O O
-my - NO B_AP CONFLICT B_AP+CONFLICT
-brother - NO I_AP CONFLICT I_AP+CONFLICT
+my - NO B_AP NEUTRAL B_AP+NEUTRAL
+brother - NO I_AP NEUTRAL I_AP+NEUTRAL
 Fe - NO O O O
-mcdonalds - NO B_AP CONFLICT B_AP+CONFLICT
+mcdonalds - NO B_AP NEUTRAL B_AP+NEUTRAL
 :p - NO O O O
 
 "It - NO O O O
@@ -2902,8 +2902,8 @@ to - NO O O O
 imagine - NO O O O
 the - NO O O O
 future." - NO O O O
-William - NO B_AP CONFLICT B_AP+CONFLICT
-Gibson - NO I_AP CONFLICT I_AP+CONFLICT
+William - NO B_AP NEUTRAL B_AP+NEUTRAL
+Gibson - NO I_AP NEUTRAL I_AP+NEUTRAL
 http://t.co/uCEMe1r3 - NO O O O
 via - NO O O O
 @shirlsmor - NO O O O
@@ -2937,8 +2937,8 @@ shut - NO O O O
 y'r - NO O O O
 mth - NO O O O
 
-*Sheren - NO B_AP CONFLICT B_AP+CONFLICT
-Rehman - NO I_AP CONFLICT I_AP+CONFLICT
+*Sheren - NO B_AP NEUTRAL B_AP+NEUTRAL
+Rehman - NO I_AP NEUTRAL I_AP+NEUTRAL
 appointed - NO O O O
 as - NO O O O
 the - NO O O O
@@ -2947,12 +2947,12 @@ Ambassador - NO O O O
 to - NO O O O
 U.S.A - NO O O O
 
-FTC - NO B_AP CONFLICT B_AP+CONFLICT
+FTC - NO B_AP NEUTRAL B_AP+NEUTRAL
 approves - NO O O O
-Intel - NO B_AP CONFLICT B_AP+CONFLICT
+Intel - NO B_AP NEUTRAL B_AP+NEUTRAL
 acquisition - NO O O O
 of - NO O O O
-McAfee - NO B_AP CONFLICT B_AP+CONFLICT
+McAfee - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
 Chipmaker - NO O O O
 receives - NO O O O
@@ -2960,7 +2960,7 @@ regulatory - NO O O O
 approval - POSITIVE O O O
 from - NO O O O
 the - NO O O O
-FTC - NO B_AP CONFLICT B_AP+CONFLICT
+FTC - NO B_AP NEUTRAL B_AP+NEUTRAL
 to - NO O O O
 proceed - NO O O O
 w - NO O O O
@@ -2968,18 +2968,18 @@ w - NO O O O
 http://tinyurl.com/22mnz22 - NO O O O
 
 http://t.co/PrUEpa7C - NO O O O
-Dunkin - NO B_AP CONFLICT B_AP+CONFLICT
-â - NO I_AP CONFLICT I_AP+CONFLICT
-Brands - NO I_AP CONFLICT I_AP+CONFLICT
+Dunkin - NO B_AP NEUTRAL B_AP+NEUTRAL
+â - NO I_AP NEUTRAL I_AP+NEUTRAL
+Brands - NO I_AP NEUTRAL I_AP+NEUTRAL
 Announces - NO O O O
 Initiation - NO O O O
 of - NO O O O
 Cash - NO O O O
 Dividen - NO O O O
 d: - NO O O O
-Dunkin - NO B_AP CONFLICT B_AP+CONFLICT
-â - NO I_AP CONFLICT I_AP+CONFLICT
-Brands - NO I_AP CONFLICT I_AP+CONFLICT
+Dunkin - NO B_AP NEUTRAL B_AP+NEUTRAL
+â - NO I_AP NEUTRAL I_AP+NEUTRAL
+Brands - NO I_AP NEUTRAL I_AP+NEUTRAL
 Announce - NO O O O
 ... - NO O O O
 http://t.co/GQyew6Ws - NO O O O
@@ -3001,9 +3001,9 @@ as - NO O O O
 it - NO O O O
 hitchhikes - NO O O O
 from - NO O O O
-LA - NO B_AP CONFLICT B_AP+CONFLICT
+LA - NO B_AP NEUTRAL B_AP+NEUTRAL
 to - NO O O O
-NYC - NO B_AP CONFLICT B_AP+CONFLICT
+NYC - NO B_AP NEUTRAL B_AP+NEUTRAL
 #SamSungCtc - NO O O O
 http://lx.im/1cBC5 - NO O O O
 - - NO O O O
@@ -3013,7 +3013,7 @@ ad - NO O O O
 : - NO O O O
 A - NO O O O
 UK - NO O O O
-court - POSITIVE B_AP CONFLICT B_AP+CONFLICT
+court - POSITIVE B_AP NEUTRAL B_AP+NEUTRAL
 gives - NO O O O
 the - NO O O O
 go-ahead - POSITIVE O O O
@@ -3040,8 +3040,8 @@ global - NO O O O
 petition - NO O O O
 urging - NO O O O
 the - NO O O O
-US - NO B_AP CONFLICT B_AP+CONFLICT
-Congress - NO I_AP CONFLICT I_AP+CONFLICT
+US - NO B_AP NEUTRAL B_AP+NEUTRAL
+Congress - NO I_AP NEUTRAL I_AP+NEUTRAL
 to - NO O O O
 reject - NEGATIVE O O O
 the - NO O O O
@@ -3064,7 +3064,7 @@ It - NO O O O
 shows - NO O O O
 only - NO O O O
 the - NO O O O
-apple - NO B_AP CONFLICT B_AP+CONFLICT
+apple - NO B_AP NEUTRAL B_AP+NEUTRAL
 logo - NO O O O
 and - NO O O O
 I - NO O O O
@@ -3081,7 +3081,7 @@ Need - NO O O O
 yr - NO O O O
 help - POSITIVE O O O
 
-SB - NO B_AP CONFLICT B_AP+CONFLICT
+SB - NO B_AP NEUTRAL B_AP+NEUTRAL
 Supervisor - NO O O O
 Brad - NO B_AP POSITIVE B_AP+POSITIVE
 Mitzelfelt - NO I_AP POSITIVE I_AP+POSITIVE
@@ -3134,10 +3134,10 @@ a - NO O O O
 new - NO O O O
 photo - NO O O O
 to - NO O O O
-Facebook - NO B_AP CONFLICT B_AP+CONFLICT
+Facebook - NO B_AP NEUTRAL B_AP+NEUTRAL
 http://t.co/7Ck1u5dz - NO O O O
 
-BP - NO B_AP CONFLICT B_AP+CONFLICT
+BP - NO B_AP NEUTRAL B_AP+NEUTRAL
 Unlikely - NO O O O
 To - NO O O O
 Return - NO O O O
@@ -3147,12 +3147,12 @@ Dividend - NO O O O
 Despite - NO O O O
 Settlement - NO O O O
 : - NO O O O
-BP - NO B_AP CONFLICT B_AP+CONFLICT
-PLC - NO I_AP CONFLICT I_AP+CONFLICT
+BP - NO B_AP NEUTRAL B_AP+NEUTRAL
+PLC - NO I_AP NEUTRAL I_AP+NEUTRAL
 ( - NO O O O
 BP.LN - NO O O O
 , - NO O O O
-BP - NO B_AP CONFLICT B_AP+CONFLICT
+BP - NO B_AP NEUTRAL B_AP+NEUTRAL
 ) - NO O O O
 expects - NO O O O
 to - NO O O O
@@ -3165,8 +3165,8 @@ http://t.co/s74BoLeI - NO O O O
 
 @Musaab_Alhaddad - NO O O O
 hala - NO O O O
-Wallah - NO B_AP CONFLICT B_AP+CONFLICT
-Musaab - NO I_AP CONFLICT I_AP+CONFLICT
+Wallah - NO B_AP NEUTRAL B_AP+NEUTRAL
+Musaab - NO I_AP NEUTRAL I_AP+NEUTRAL
 , - NO O O O
 send - NO O O O
 your - NO O O O
@@ -3184,11 +3184,11 @@ man - NO O O O
 . - NO O O O
 :) - NO O O O
 
-Jobs - NO B_AP CONFLICT B_AP+CONFLICT
+Jobs - NO B_AP NEUTRAL B_AP+NEUTRAL
 Steps - NO O O O
 Down - NO O O O
 at - NO O O O
-Apple - NO B_AP CONFLICT B_AP+CONFLICT
+Apple - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
 Saying - NO O O O
 He - NO O O O
@@ -3221,8 +3221,8 @@ offer - NO O O O
 #ad - NO O O O
 http://t.co/pmrmBljJ - NO O O O
 
-WORLD - NO B_AP CONFLICT B_AP+CONFLICT
-FOREX - NO I_AP CONFLICT I_AP+CONFLICT
+WORLD - NO B_AP NEUTRAL B_AP+NEUTRAL
+FOREX - NO I_AP NEUTRAL I_AP+NEUTRAL
 : - NO O O O
 Dollar - NO O O O
 Rises - NO O O O
@@ -3236,17 +3236,17 @@ Japan - NO O O O
 Fear - NO O O O
 s: - NO O O O
 By - NO O O O
-Enda - NO B_AP CONFLICT B_AP+CONFLICT
-Curran - NO I_AP CONFLICT I_AP+CONFLICT
+Enda - NO B_AP NEUTRAL B_AP+NEUTRAL
+Curran - NO I_AP NEUTRAL I_AP+NEUTRAL
 and - NO O O O
-Sam - NO B_AP CONFLICT B_AP+CONFLICT
-Holmes - NO I_AP CONFLICT I_AP+CONFLICT
+Sam - NO B_AP NEUTRAL B_AP+NEUTRAL
+Holmes - NO I_AP NEUTRAL I_AP+NEUTRAL
 SINGAPORE - NO O O O
 ... - NO O O O
 http://bit.ly/gWiXl0 - NO O O O
 
 How - NO O O O
-Pinterest - NO B_AP CONFLICT B_AP+CONFLICT
+Pinterest - NO B_AP NEUTRAL B_AP+NEUTRAL
 â - NO O O O
 s - NO O O O
 Female - NO O O O
@@ -3259,7 +3259,7 @@ http://t.co/Rp2TuW83 - NO O O O
 via - NO O O O
 @mashable - NO O O O
 
-Apple's - NO B_AP CONFLICT B_AP+CONFLICT
+Apple's - NO B_AP NEUTRAL B_AP+NEUTRAL
 'Education - NO O O O
 Announcement' - NO O O O
 Scheduled - NO O O O
@@ -3274,7 +3274,7 @@ http://t.co/20dB2DAe - NO O O O
 
 Ad - NO O O O
 Agency - NO O O O
-BBH - NO B_AP CONFLICT B_AP+CONFLICT
+BBH - NO B_AP NEUTRAL B_AP+NEUTRAL
 Moves - NO O O O
 Into - NO O O O
 Social - NO O O O
@@ -3299,7 +3299,7 @@ tackle - NO O O O
 climate - NO O O O
 change - NO O O O
 ( - NO O O O
-TotalAction - NO B_AP CONFLICT B_AP+CONFLICT
+TotalAction - NO B_AP NEUTRAL B_AP+NEUTRAL
 ): - NO O O O
 Energy - NO O O O
 efficiency - POSITIVE O O O
@@ -3318,8 +3318,8 @@ Common - NO O O O
 Threa - NO O O O
 d: - NO O O O
 by - NO O O O
-Susan - NO B_AP CONFLICT B_AP+CONFLICT
-Bragdon - NO I_AP CONFLICT I_AP+CONFLICT
+Susan - NO B_AP NEUTRAL B_AP+NEUTRAL
+Bragdon - NO I_AP NEUTRAL I_AP+NEUTRAL
 published - NO O O O
 in - NO O O O
 Sustainable - NO O O O
@@ -3336,7 +3336,7 @@ of - NO O O O
 ... - NO O O O
 http://bit.ly/bPPceF - NO O O O
 
-Tesco - NO B_AP CONFLICT B_AP+CONFLICT
+Tesco - NO B_AP NEUTRAL B_AP+NEUTRAL
 information - NO O O O
 on - NO O O O
 Britain's - NO O O O
@@ -3352,7 +3352,7 @@ be - NO O O O
 largest - NO O O O
 discoun - NO O O O
 ... - NO O O O
-http://bit.ly/fkLHXe - NO B_AP CONFLICT B_AP+CONFLICT
+http://bit.ly/fkLHXe - NO B_AP NEUTRAL B_AP+NEUTRAL
 supermarket - NO O O O
 
 I - NO O O O
@@ -3361,7 +3361,7 @@ to - NO O O O
 AsepxiaFB's - NO O O O
 channel - NO O O O
 on - NO O O O
-YouTube - NO B_AP CONFLICT B_AP+CONFLICT
+YouTube - NO B_AP NEUTRAL B_AP+NEUTRAL
 . - NO O O O
 = - NO O O O
 
@@ -3377,9 +3377,9 @@ SMilDS.com - NO O O O
 -Credit - NO O O O
 Card - NO O O O
 ( - NO O O O
-Visa - NO B_AP CONFLICT B_AP+CONFLICT
+Visa - NO B_AP NEUTRAL B_AP+NEUTRAL
 or - NO O O O
-Master - NO B_AP CONFLICT B_AP+CONFLICT
+Master - NO B_AP NEUTRAL B_AP+NEUTRAL
 ) - NO O O O
 -Online - NO O O O
 Banking/Transfer - NO O O O
@@ -3414,8 +3414,8 @@ via - NO O O O
 @youtube - NO O O O
 
 Is - NO O O O
-Prince - NO B_AP CONFLICT B_AP+CONFLICT
-William - NO I_AP CONFLICT I_AP+CONFLICT
+Prince - NO B_AP NEUTRAL B_AP+NEUTRAL
+William - NO I_AP NEUTRAL I_AP+NEUTRAL
 and - NO O O O
 Kate - NO B_AP POSITIVE B_AP+POSITIVE
 Middletons - NO I_AP POSITIVE I_AP+POSITIVE
@@ -3428,14 +3428,14 @@ in - NO O O O
 the - NO O O O
 US - NO O O O
 ? - NO O O O
-Kate - NO B_AP CONFLICT B_AP+CONFLICT
-Middleton - NO I_AP CONFLICT I_AP+CONFLICT
+Kate - NO B_AP NEUTRAL B_AP+NEUTRAL
+Middleton - NO I_AP NEUTRAL I_AP+NEUTRAL
 http://bit.ly/geyGfq - NO O O O
 . - NO O O O
 
 FYI - NO O O O
 , - NO O O O
-IPN - NO B_AP CONFLICT B_AP+CONFLICT
+IPN - NO B_AP NEUTRAL B_AP+NEUTRAL
 produces - NO O O O
 , - NO O O O
 publishes - NO O O O
@@ -3517,8 +3517,8 @@ you - NO O O O
 stop - NO O O O
 trying - NEGATIVE O O O
 ! - NO O O O
--Walt - NO B_AP CONFLICT B_AP+CONFLICT
-Disney - NO I_AP CONFLICT I_AP+CONFLICT
+-Walt - NO B_AP NEUTRAL B_AP+NEUTRAL
+Disney - NO I_AP NEUTRAL I_AP+NEUTRAL
 #quotes - NO O O O
 
 Today - NO O O O
@@ -3534,11 +3534,11 @@ Feb - NO O O O
 , - NO O O O
 1959 - NO O O O
 , - NO O O O
-Buddy - NO B_AP CONFLICT B_AP+CONFLICT
-Holly - NO I_AP CONFLICT I_AP+CONFLICT
+Buddy - NO B_AP NEUTRAL B_AP+NEUTRAL
+Holly - NO I_AP NEUTRAL I_AP+NEUTRAL
 , - NO O O O
-Ritchie - NO B_AP CONFLICT B_AP+CONFLICT
-Valens - NO I_AP CONFLICT I_AP+CONFLICT
+Ritchie - NO B_AP NEUTRAL B_AP+NEUTRAL
+Valens - NO I_AP NEUTRAL I_AP+NEUTRAL
 & - NO O O O
 "The - NO B_AP NEGATIVE B_AP+NEGATIVE
 Big - NO I_AP NEGATIVE I_AP+NEGATIVE
@@ -3555,8 +3555,8 @@ Lake - NO O O O
 Ia - NO O O O
 . - NO O O O
 
-Cristine - NO B_AP CONFLICT B_AP+CONFLICT
-Reyes - NO I_AP CONFLICT I_AP+CONFLICT
+Cristine - NO B_AP NEUTRAL B_AP+NEUTRAL
+Reyes - NO I_AP NEUTRAL I_AP+NEUTRAL
 speaks - NO O O O
 out - NO O O O
 that - NO O O O
@@ -3587,8 +3587,8 @@ winner - NO O O O
 . - NO O O O
 â - NO O O O
 - - NO O O O
-Zig - NO B_AP CONFLICT B_AP+CONFLICT
-Ziglar - NO I_AP CONFLICT I_AP+CONFLICT
+Zig - NO B_AP NEUTRAL B_AP+NEUTRAL
+Ziglar - NO I_AP NEUTRAL I_AP+NEUTRAL
 . - NO O O O
 Plz - NO O O O
 RT - NO O O O
@@ -3596,17 +3596,17 @@ RT - NO O O O
 
 EU - NO O O O
 Elects - NO O O O
-Van - NO B_AP CONFLICT B_AP+CONFLICT
-Rompuy - NO I_AP CONFLICT I_AP+CONFLICT
+Van - NO B_AP NEUTRAL B_AP+NEUTRAL
+Rompuy - NO I_AP NEUTRAL I_AP+NEUTRAL
 for - NO O O O
 Second - NO O O O
 Term - NO O O O
 as - NO O O O
-European - NO B_AP CONFLICT B_AP+CONFLICT
-Council - NO I_AP CONFLICT I_AP+CONFLICT
+European - NO B_AP NEUTRAL B_AP+NEUTRAL
+Council - NO I_AP NEUTRAL I_AP+NEUTRAL
 Chief - NO O O O
 | - NO O O O
-Fox - NO B_AP CONFLICT B_AP+CONFLICT
+Fox - NO B_AP NEUTRAL B_AP+NEUTRAL
 Business - NO O O O
 http://t.co/tbdRiRNm - NO O O O
 via - NO O O O
@@ -3623,8 +3623,8 @@ Miracles - NO O O O
 - - NO O O O
 Tapping - NO O O O
 with - NO O O O
-Brad - NO B_AP CONFLICT B_AP+CONFLICT
-Yates - NO I_AP CONFLICT I_AP+CONFLICT
+Brad - NO B_AP NEUTRAL B_AP+NEUTRAL
+Yates - NO I_AP NEUTRAL I_AP+NEUTRAL
 
 I - NO O O O
 wont - NO O O O
@@ -3653,7 +3653,7 @@ Kanye - NO B_AP POSITIVE B_AP+POSITIVE
 West - NO I_AP POSITIVE I_AP+POSITIVE
 http://tinyurl.com/yz3qs6c - NO O O O
 
-CDC - NO B_AP CONFLICT B_AP+CONFLICT
+CDC - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
 U.S - NO O O O
 . - NO O O O
@@ -3704,13 +3704,13 @@ Edge - NO O O O
 To - NO O O O
 Life - NO O O O
 by - NO O O O
-Recoil - NO B_AP CONFLICT B_AP+CONFLICT
+Recoil - NO B_AP NEUTRAL B_AP+NEUTRAL
 on - NO O O O
 Myspace - NO O O O
 http://lnk.ms/LPRF2 - NO O O O
 
-bbcworl - NO B_AP CONFLICT B_AP+CONFLICT
-d: - NO I_AP CONFLICT I_AP+CONFLICT
+bbcworl - NO B_AP NEUTRAL B_AP+NEUTRAL
+d: - NO I_AP NEUTRAL I_AP+NEUTRAL
 A - NO O O O
 search - NO O O O
 is - NO O O O
@@ -3739,8 +3739,8 @@ past - NO O O O
 35 - NO O O O
 minutes - NO O O O
 helping - NO O O O
-Gpa - NO B_AP CONFLICT B_AP+CONFLICT
-Roger - NO I_AP CONFLICT I_AP+CONFLICT
+Gpa - NO B_AP NEUTRAL B_AP+NEUTRAL
+Roger - NO I_AP NEUTRAL I_AP+NEUTRAL
 create - NO O O O
 a - NO O O O
 facebook - NO O O O
@@ -3779,7 +3779,7 @@ this - NO O O O
 video - NO O O O
 out - NO O O O
 -- - NO O O O
-Kinky - NO B_AP CONFLICT B_AP+CONFLICT
+Kinky - NO B_AP NEUTRAL B_AP+NEUTRAL
 - - NO O O O
 A - NO O O O
 Donde - NO O O O
@@ -3800,8 +3800,8 @@ this - NO O O O
 video - NO O O O
 out - NO O O O
 -- - NO O O O
-Coca - NO B_AP CONFLICT B_AP+CONFLICT
-Cola - NO I_AP CONFLICT I_AP+CONFLICT
+Coca - NO B_AP NEUTRAL B_AP+NEUTRAL
+Cola - NO I_AP NEUTRAL I_AP+NEUTRAL
 Content - NO O O O
 2020 - NO O O O
 Part - NO O O O
@@ -3817,22 +3817,22 @@ the - NO O O O
 Release - NO O O O
 Date - NO O O O
 for - NO O O O
-Los - NO B_AP CONFLICT B_AP+CONFLICT
-Buitre - NO I_AP CONFLICT I_AP+CONFLICT
-Inc - NO I_AP CONFLICT I_AP+CONFLICT
-. - NO I_AP CONFLICT I_AP+CONFLICT
+Los - NO B_AP NEUTRAL B_AP+NEUTRAL
+Buitre - NO I_AP NEUTRAL I_AP+NEUTRAL
+Inc - NO I_AP NEUTRAL I_AP+NEUTRAL
+. - NO I_AP NEUTRAL I_AP+NEUTRAL
 MixTape - NO O O O
 Produced - NO O O O
 by - NO O O O
-DJ - NO B_AP CONFLICT B_AP+CONFLICT
-Twinz - NO I_AP CONFLICT I_AP+CONFLICT
+DJ - NO B_AP NEUTRAL B_AP+NEUTRAL
+Twinz - NO I_AP NEUTRAL I_AP+NEUTRAL
 & - NO O O O
-DJ - NO B_AP CONFLICT B_AP+CONFLICT
-Loki - NO I_AP CONFLICT I_AP+CONFLICT
+DJ - NO B_AP NEUTRAL B_AP+NEUTRAL
+Loki - NO I_AP NEUTRAL I_AP+NEUTRAL
 Hosted - NO O O O
 By - NO O O O
-DJ - NO B_AP CONFLICT B_AP+CONFLICT
-K-Oz - NO I_AP CONFLICT I_AP+CONFLICT
+DJ - NO B_AP NEUTRAL B_AP+NEUTRAL
+K-Oz - NO I_AP NEUTRAL I_AP+NEUTRAL
 #shoutout - NO O O O
 
 Asia - NO O O O
@@ -3843,9 +3843,9 @@ air - NO O O O
 travel - NO O O O
 market - NO O O O
 : - NO O O O
-IATA - NO B_AP CONFLICT B_AP+CONFLICT
+IATA - NO B_AP NEUTRAL B_AP+NEUTRAL
 - - NO O O O
-Yahoo - NO B_AP CONFLICT B_AP+CONFLICT
+Yahoo - NO B_AP NEUTRAL B_AP+NEUTRAL
 ! - NO O O O
 Finance - NO O O O
 News - NO O O O
@@ -3865,11 +3865,11 @@ code - NO O O O
 330000122137 - NO O O O
 and - NO O O O
 name - NO O O O
-IAN - NO B_AP CONFLICT B_AP+CONFLICT
-THESEE - NO I_AP CONFLICT I_AP+CONFLICT
+IAN - NO B_AP NEUTRAL B_AP+NEUTRAL
+THESEE - NO I_AP NEUTRAL I_AP+NEUTRAL
 http://www.foreverliving.com - NO O O O
 
-Pfizer - NO B_AP CONFLICT B_AP+CONFLICT
+Pfizer - NO B_AP NEUTRAL B_AP+NEUTRAL
 recalls - NO O O O
 expired - NO O O O
 lot - NO O O O
@@ -3878,7 +3878,7 @@ Prevnar - NO O O O
 vaccine - NO O O O
 : - NO O O O
 ( - NO O O O
-Reuters - NO B_AP CONFLICT B_AP+CONFLICT
+Reuters - NO B_AP NEUTRAL B_AP+NEUTRAL
 ) - NO O O O
 - - NO O O O
 Pfizer - NO O O O
@@ -3901,7 +3901,7 @@ the - NO O O O
 animation - NO O O O
 academy - NO O O O
 dismarks - NO O O O
-disney - NO B_AP CONFLICT B_AP+CONFLICT
+disney - NO B_AP NEUTRAL B_AP+NEUTRAL
 social - NO O O O
 news - NO O O O
 ... - NO O O O
@@ -3927,9 +3927,9 @@ precedes - NO O O O
 the - NO O O O
 goal - NO O O O
 . - NO O O O
-Pamela - NO B_AP CONFLICT B_AP+CONFLICT
-Vaull - NO I_AP CONFLICT I_AP+CONFLICT
-Starr - NO I_AP CONFLICT I_AP+CONFLICT
+Pamela - NO B_AP NEUTRAL B_AP+NEUTRAL
+Vaull - NO I_AP NEUTRAL I_AP+NEUTRAL
+Starr - NO I_AP NEUTRAL I_AP+NEUTRAL
 
 Do - NO O O O
 you - NO O O O
@@ -3965,7 +3965,7 @@ unwanted - NEGATIVE O O O
 children - NO O O O
 ? - NO O O O
 RT - NO O O O
-@Sentletse - NO B_AP CONFLICT B_AP+CONFLICT
+@Sentletse - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
 The - NO O O O
 number - NO O O O
@@ -3988,7 +3988,7 @@ CAN'T - NO O O O
 .. - NO O O O
 That's - NO O O O
 why - NO O O O
-Bella - NO B_AP CONFLICT B_AP+CONFLICT
+Bella - NO B_AP NEUTRAL B_AP+NEUTRAL
 called - NO O O O
 him - NO O O O
 spider - NO O O O
@@ -4019,22 +4019,22 @@ Makes - NO O O O
 You - NO O O O
 Beautiful - NO O O O
 
-Shaklee - NO B_AP CONFLICT B_AP+CONFLICT
-News - NO I_AP CONFLICT I_AP+CONFLICT
-Dr - NO I_AP CONFLICT I_AP+CONFLICT
-Forrest - NO I_AP CONFLICT I_AP+CONFLICT
-C - NO I_AP CONFLICT I_AP+CONFLICT
-Shaklee - NO I_AP CONFLICT I_AP+CONFLICT
+Shaklee - NO B_AP NEUTRAL B_AP+NEUTRAL
+News - NO I_AP NEUTRAL I_AP+NEUTRAL
+Dr - NO I_AP NEUTRAL I_AP+NEUTRAL
+Forrest - NO I_AP NEUTRAL I_AP+NEUTRAL
+C - NO I_AP NEUTRAL I_AP+NEUTRAL
+Shaklee - NO I_AP NEUTRAL I_AP+NEUTRAL
 Story - NO O O O
-YouTube - NO B_AP CONFLICT B_AP+CONFLICT
+YouTube - NO B_AP NEUTRAL B_AP+NEUTRAL
 - - NO O O O
-YouTube - NO B_AP CONFLICT B_AP+CONFLICT
+YouTube - NO B_AP NEUTRAL B_AP+NEUTRAL
 : - NO O O O
-Dr - NO B_AP CONFLICT B_AP+CONFLICT
-Forrest - NO I_AP CONFLICT I_AP+CONFLICT
-C - NO I_AP CONFLICT I_AP+CONFLICT
-. - NO I_AP CONFLICT I_AP+CONFLICT
-Shaklee- - NO I_AP CONFLICT I_AP+CONFLICT
+Dr - NO B_AP NEUTRAL B_AP+NEUTRAL
+Forrest - NO I_AP NEUTRAL I_AP+NEUTRAL
+C - NO I_AP NEUTRAL I_AP+NEUTRAL
+. - NO I_AP NEUTRAL I_AP+NEUTRAL
+Shaklee- - NO I_AP NEUTRAL I_AP+NEUTRAL
 The - NO O O O
 Founding - NO O O O
 Father - NO O O O
@@ -4046,7 +4046,7 @@ by - NO O O O
 http://t.co/KW3XxTii - NO O O O
 
 @GsmArena - NO O O O
-Microsoft - NO B_AP CONFLICT B_AP+CONFLICT
+Microsoft - NO B_AP NEUTRAL B_AP+NEUTRAL
 takes - NO O O O
 Marketplace - NO O O O
 to - NO O O O
@@ -4090,14 +4090,14 @@ Get - NO O O O
 promo - NO O O O
 codes - NO O O O
 from - NO O O O
-HP - NO B_AP CONFLICT B_AP+CONFLICT
+HP - NO B_AP NEUTRAL B_AP+NEUTRAL
 , - NO O O O
 Dell - NO B_AP POSITIVE B_AP+POSITIVE
 Small - NO I_AP POSITIVE I_AP+POSITIVE
 Business - NO I_AP POSITIVE I_AP+POSITIVE
 , - NO O O O
-Comp - NO B_AP CONFLICT B_AP+CONFLICT
-USA - NO I_AP CONFLICT I_AP+CONFLICT
+Comp - NO B_AP NEUTRAL B_AP+NEUTRAL
+USA - NO I_AP NEUTRAL I_AP+NEUTRAL
 , - NO O O O
 Computer - NO B_AP POSITIVE B_AP+POSITIVE
 Associates - NO I_AP POSITIVE I_AP+POSITIVE
@@ -4127,8 +4127,8 @@ of - NO O O O
 our - NO O O O
 liberties - NO O O O
 . - NO O O O
-Abe - NO B_AP CONFLICT B_AP+CONFLICT
-Lincoln - NO I_AP CONFLICT I_AP+CONFLICT
+Abe - NO B_AP NEUTRAL B_AP+NEUTRAL
+Lincoln - NO I_AP NEUTRAL I_AP+NEUTRAL
 
 @ceqodujyg - NO O O O
 , - NO O O O
@@ -4137,7 +4137,7 @@ just - NO O O O
 signed - NO O O O
 up - NO O O O
 for - NO O O O
-Klout - NO B_AP CONFLICT B_AP+CONFLICT
+Klout - NO B_AP NEUTRAL B_AP+NEUTRAL
 . - NO O O O
 Check - NO O O O
 out - NO O O O
@@ -4168,11 +4168,11 @@ for - NO O O O
 bookmakers - NO O O O
 ... - NO O O O
 
-Johnson - NO B_AP CONFLICT B_AP+CONFLICT
-& - NO I_AP CONFLICT I_AP+CONFLICT
-am - NO I_AP CONFLICT I_AP+CONFLICT
-p; - NO I_AP CONFLICT I_AP+CONFLICT
-Johnson - NO I_AP CONFLICT I_AP+CONFLICT
+Johnson - NO B_AP NEUTRAL B_AP+NEUTRAL
+& - NO I_AP NEUTRAL I_AP+NEUTRAL
+am - NO I_AP NEUTRAL I_AP+NEUTRAL
+p; - NO I_AP NEUTRAL I_AP+NEUTRAL
+Johnson - NO I_AP NEUTRAL I_AP+NEUTRAL
 Recalls - NO O O O
 Infants - NO O O O
 & - NO O O O
@@ -4185,8 +4185,8 @@ http://t.co/hct3m1fC - NO O O O
 New - NO O O O
 photos - NO O O O
 , - NO O O O
-Katy - NO B_AP CONFLICT B_AP+CONFLICT
-Perry - NO I_AP CONFLICT I_AP+CONFLICT
+Katy - NO B_AP NEUTRAL B_AP+NEUTRAL
+Perry - NO I_AP NEUTRAL I_AP+NEUTRAL
 out - NO O O O
 in - NO O O O
 West - NO O O O
@@ -4201,17 +4201,17 @@ Updating - NO O O O
 clients - NO O O O
 ( - NO O O O
 @ - NO O O O
-Softscript - NO B_AP CONFLICT B_AP+CONFLICT
-Solutions - NO I_AP CONFLICT I_AP+CONFLICT
-Private - NO I_AP CONFLICT I_AP+CONFLICT
-Limited - NO I_AP CONFLICT I_AP+CONFLICT
+Softscript - NO B_AP NEUTRAL B_AP+NEUTRAL
+Solutions - NO I_AP NEUTRAL I_AP+NEUTRAL
+Private - NO I_AP NEUTRAL I_AP+NEUTRAL
+Limited - NO I_AP NEUTRAL I_AP+NEUTRAL
 ) - NO O O O
 http://t.co/aUkfhYRk - NO O O O
 
 Thai - NO B_AP NEGATIVE B_AP+NEGATIVE
 Government - NO I_AP NEGATIVE I_AP+NEGATIVE
 Raids - NO O O O
-NGO - NO B_AP CONFLICT B_AP+CONFLICT
+NGO - NO B_AP NEUTRAL B_AP+NEUTRAL
 Injuring - NO O O O
 Animals - NO O O O
 / - NO O O O
@@ -4286,8 +4286,8 @@ make - NO O O O
 the - NO O O O
 playof - NO O O O
 ... - NO O O O
-philadelphia - NO B_AP CONFLICT B_AP+CONFLICT
-eagles - NO I_AP CONFLICT I_AP+CONFLICT
+philadelphia - NO B_AP NEUTRAL B_AP+NEUTRAL
+eagles - NO I_AP NEUTRAL I_AP+NEUTRAL
 
 indians - NO O O O
 team - NO O O O
@@ -4320,7 +4320,7 @@ Broncos - NO B_AP POSITIVE B_AP+POSITIVE
 ! - NO O O O
 
 Jessore - NO O O O
-BNP - NO B_AP CONFLICT B_AP+CONFLICT
+BNP - NO B_AP NEUTRAL B_AP+NEUTRAL
 leader - NO O O O
 killed - NO O O O
 in - NO O O O
@@ -4329,7 +4329,7 @@ Gazipur - NO O O O
 Jessore - NO O O O
 : - NO O O O
 A - NO O O O
-BNP - NO B_AP CONFLICT B_AP+CONFLICT
+BNP - NO B_AP NEUTRAL B_AP+NEUTRAL
 upazila - NO O O O
 unit - NO O O O
 leader - NO O O O
@@ -4354,10 +4354,10 @@ a - NO O O O
 difference - NO O O O
 between - NO O O O
 the - NO O O O
-Nicoderm - NO B_AP CONFLICT B_AP+CONFLICT
+Nicoderm - NO B_AP NEUTRAL B_AP+NEUTRAL
 and - NO O O O
 the - NO O O O
-Equate - NO B_AP CONFLICT B_AP+CONFLICT
+Equate - NO B_AP NEUTRAL B_AP+NEUTRAL
 brand - NO O O O
 stop - NO O O O
 smoking - NO O O O
@@ -4376,7 +4376,7 @@ currently - NO O O O
 looking - NO O O O
 at - NO O O O
 the - NO O O O
-AU's - NO B_AP CONFLICT B_AP+CONFLICT
+AU's - NO B_AP NEUTRAL B_AP+NEUTRAL
 peacekeeping - NO O O O
 operations - NO O O O
 in - NO O O O
@@ -4396,24 +4396,24 @@ that - NO O O O
 respect - POSITIVE O O O
 . - NO O O O
 
-APSense - NO B_AP CONFLICT B_AP+CONFLICT
+APSense - NO B_AP NEUTRAL B_AP+NEUTRAL
 to - NO O O O
 become - NO O O O
 the - NO O O O
 top - POSITIVE O O O
-Business - NO B_AP CONFLICT B_AP+CONFLICT
-Network - NO I_AP CONFLICT I_AP+CONFLICT
+Business - NO B_AP NEUTRAL B_AP+NEUTRAL
+Network - NO I_AP NEUTRAL I_AP+NEUTRAL
 ... - NO O O O
 Join - NO O O O
 http://t.co/XQQbcfsv - NO O O O
 
-Al - NO B_AP CONFLICT B_AP+CONFLICT
-Jazeera - NO I_AP CONFLICT I_AP+CONFLICT
+Al - NO B_AP NEUTRAL B_AP+NEUTRAL
+Jazeera - NO I_AP NEUTRAL I_AP+NEUTRAL
 English - NO O O O
 http://bit.ly/faw9KM - NO O O O
 expose - NEGATIVE O O O
-Bahraini - NO B_AP CONFLICT B_AP+CONFLICT
-security - POSITIVE I_AP CONFLICT I_AP+CONFLICT
+Bahraini - NO B_AP NEUTRAL B_AP+NEUTRAL
+security - POSITIVE I_AP NEUTRAL I_AP+NEUTRAL
 after - NO O O O
 the - NO O O O
 massacre - NEGATIVE O O O
