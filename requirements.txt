@@ -1,4 +1,4 @@
 # packages
 # python 2.7
 numpy==1.16.3
-tensorflow-gpu==1.2.0
+tensorflow-gpu==2.3.1
